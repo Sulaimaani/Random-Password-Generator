@@ -10,7 +10,7 @@ Welcome to the Random Password Generator! This Python script generates a strong 
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/random-password-generator.git
+    git clone https://github.com/Sulaimaani/Random-Password-Generator.git
     ```
 2. Navigate to the project directory:
     ```bash
